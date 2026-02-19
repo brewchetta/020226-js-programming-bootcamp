@@ -1,1 +1,0 @@
-## Day 02 - Arrays and Objects
