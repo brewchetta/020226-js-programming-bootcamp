@@ -1,13 +1,20 @@
-# Lesson 09 - Async Javascript
+# Day 09 - Fetch & Node
 
-## Topics
+Getting started with node:
 
-- What does it mean to have asynchronous code?
+```bash
+# to check if you have node installed
+node -v
 
-- What does "setTimeout" do?
+# to check if you have npm (node package manager) installed:
+npm -v
 
-- What is a "Promise"?
+# to install a new package:
+npm install json-server
 
-- How can we resolve promises?
+# to execute a package:
+npx json-server database.json
 
-- What does the "async / await" syntax do?
+# to run a specific file:
+node my-file.js
+```

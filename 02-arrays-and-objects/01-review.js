@@ -1,4 +1,28 @@
-// HIGHER ORDER FUNCTIONS
+// REVIEW //
+
+// SCOPE
+
+// global variable
+let greeting = "howdy there!"
+
+if (true) {
+    let greeting = "bom dia"
+    // console.log(greeting)
+}
+
+function changeHello() {
+    let greeting = "bom dia"
+    // reassigning variable --> giving it a new value
+    greeting = "hello!"
+    console.log(greeting)
+}
+
+function sayGreeting() {
+    console.log(greeting)
+}
+
+// HIGHER ORDER FUNCTION
+
 
 function makeFunction() {
     
