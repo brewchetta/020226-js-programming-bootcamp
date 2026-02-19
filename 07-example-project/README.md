@@ -1,4 +1,4 @@
-# JS Example Project
+# Day 07 - JS Example Project
 
 ## Hangman
 

@@ -1,1 +1,1 @@
-# 03 Arrays, Objects, Etc.
+# Day 03 - Arrays, Objects, Etc.

@@ -1,4 +1,4 @@
-# JavaScript Mini Project # 2
+# Day 11 - JavaScript Mini Project # 2
 
 ## Requirements
 

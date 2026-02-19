@@ -1,4 +1,4 @@
-# Fetch & Node
+# Day 09 - Fetch & Node
 
 Getting started with node:
 

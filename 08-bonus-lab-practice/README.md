@@ -1,4 +1,4 @@
-# Friday Lab Practice
+# Day 08 - Friday Lab Practice
 
 ## Exercise One - Triangles
 

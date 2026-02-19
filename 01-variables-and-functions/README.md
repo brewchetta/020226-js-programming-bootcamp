@@ -1,1 +1,1 @@
-# Day One - Variables and Functions
+# Day 01 - Variables and Functions
